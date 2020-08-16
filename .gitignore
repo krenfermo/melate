@@ -1,3 +1,4 @@
 env/*
 Melate_back*
 melate.csv
+*.pyc
